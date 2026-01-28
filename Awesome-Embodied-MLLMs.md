@@ -48,8 +48,3 @@
 |              Title              |    Date     |      Code      |      Paper      |      Note      |
 | :-----------------------------: | :---------: | :------------: | :-------------: | :------------: |
 | VSR: Visual Spatial Reasoning | 2023-2 | [Github](https://github.com/cambridgeltl/visual-spatial-reasoning) | [Arxiv](https://arxiv.org/abs/2205.00363) | TACL |
-
-
-
-| <br/>[](https://arxiv.org/abs/2404.12390) | 2024-4 | [Github]() | - |
-

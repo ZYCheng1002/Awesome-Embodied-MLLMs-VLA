@@ -27,6 +27,6 @@ You are welcome to participate in the maintenance and update of this repository 
 2. Propose resource supplement suggestions or point out errors via Issues;
 3. Suggest new classification directions or optimize the existing structure.
 
-## 许可证 | License
+## License
 
 This repository is licensed under the [Apache-2.0 License](LICENSE).
